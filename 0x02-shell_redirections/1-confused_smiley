@@ -1,0 +1,6 @@
+#!/bin/bash
+printf /(Ôo) >> 1-confused_smiley
+
+cd alx-system_engineering-devops/
+echo printf /'(Ôo)'
+printf "(Ôo)'
