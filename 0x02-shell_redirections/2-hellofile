@@ -1,2 +1,2 @@
 #!/bin/bash
-echo tail /ect/passwd
+tail /ect/passwd
